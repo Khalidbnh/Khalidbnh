@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React native, SpringBoot, Kotlin(Android Studio)**
 
-- 👨‍💻 All of my projects are available at [khalidev.net](khalidev.net)
+- 👨‍💻 All of my projects are available at <a href="https://khalidev.net" target="blank"> [khalidev.net]</a>
 
 - 📫 How to reach me **contact@khalidev.net**
 
