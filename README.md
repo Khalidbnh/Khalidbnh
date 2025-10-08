@@ -1,6 +1,5 @@
 # Hi 👋, I'm Khalid
 
-![Profile Banner](your-banner-link-here) <!-- Optional -->
 
 <p align="center">
   <a href="https://khalidev.net/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-khalidev.net-blue?style=flat-square&logo=firefox" /></a>
@@ -26,10 +25,14 @@ I am a passionate web developer with a strong interest in building modern, respo
 
 **Frameworks & Libraries:**  
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=azure-devops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 🚀 Projects
