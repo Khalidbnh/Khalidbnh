@@ -12,7 +12,7 @@
 I am a passionate web developer with a strong interest in building modern, responsive web and mobile applications. I enjoy learning new technologies and am committed to continuous improvement.
 
 - 🌱 Currently learning **React Native, Spring Boot, Kotlin (Android Studio)**
-- 🛠️ Experienced with **JavaScript, TypeScript, React, Node.js, and more**
+- 🛠️ Experienced with **C#, JavaScript, React, Node.js, and more**
 - 📫 Reach me at **contact@khalidev.net**
 - 🌐 [My Portfolio](https://khalidev.net)
 
@@ -20,6 +20,7 @@ I am a passionate web developer with a strong interest in building modern, respo
 
 **Languages:**  
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
@@ -34,6 +35,9 @@ I am a passionate web developer with a strong interest in building modern, respo
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 🧩 Other Skills
+- Email Marketing (Mailchimp, SendGrid, Campaign Analytics)
 
 ## 🚀 Projects
 
