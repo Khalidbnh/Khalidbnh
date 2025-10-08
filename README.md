@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khalid</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🌱 I’m currently learning **React, React native**
+- 🌱 I’m currently learning **React native, SpringBoot, Kotlin(Android Studio)**
 
 - 👨‍💻 All of my projects are available at [khalidev.net](khalidev.net)
 
