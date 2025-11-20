@@ -11,7 +11,7 @@
 
 I am a passionate web developer with a strong interest in building modern, responsive web and mobile applications. I enjoy learning new technologies and am committed to continuous improvement.
 
-- 🌱 Currently learning **Laravel, React Native, Spring Boot, Kotlin (Android Studio)**
+- 🌱 Currently learning **React Native, Spring Boot, Kotlin (Android Studio)**
 - 🛠️ Experienced with **C#, JavaScript, React, and more**
 - 📫 Reach me at **contact@khalidev.net**
 - 🌐 [My Portfolio](https://khalidev.net)
